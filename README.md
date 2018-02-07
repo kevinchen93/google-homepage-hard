@@ -1,4 +1,4 @@
-# Google Homepage Project
+# Google Homepage-Hard Project
 
 This purpose of this project was to deconstruct and rebuild a search results webpage as accurately as possible.
 The provided webpage was the [Google.com search results page](https://www.google.com/search?q=build+this+webpage/) at the time.
@@ -18,5 +18,5 @@ I will learn that later on in the curriculum.
 
 Skills I strengthened at project end: <br>   
 -HTML <br>
--CSS <br>    
+-CSS <br>
 -Use of Chrome Developer Tools
