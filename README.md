@@ -16,7 +16,7 @@ I will do my best!
 One thing the page is definitely missing is responsive design.
 I will learn that later on in the curriculum.
 
-Skills I strengthened at project end: <br>   
+Skills I strengthened at project end:  
 -HTML <br>
 -CSS <br>
 -Use of Chrome Developer Tools
