@@ -1,4 +1,4 @@
-# Google Homepage-Hard Project
+# Google Homepage Project (Hard)
 
 This purpose of this project was to deconstruct and rebuild a search results webpage as accurately as possible.
 The provided webpage was the [Google.com search results page](https://www.google.com/search?q=build+this+webpage/) at the time.
